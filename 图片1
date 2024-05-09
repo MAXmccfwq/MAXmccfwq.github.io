@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>显示图片</title>
+</head>
+<body>
+    <h1>我的图片</h1>
+    <img src="https://drive.google.com/file/d/1OcvwtrzrGGGxMmhsiurZazmmw_e0r7UD/view?usp=drivesdk" alt="“这是一款名为 Minecraft 的沙盒游戏。在游戏中，玩家可以在一个由方块组成的虚拟世界中探索、建造和生存。玩家可以通过采集资源、合成工具和装备、建造房屋和结构，以及与各种生物互动来体验游戏。Minecraft 提供了无尽的可能性，玩家可以自由地发挥想象力，创造出属于自己的世界。无论是建造壮丽的城堡、探索神秘的洞穴、还是与朋友一起玩耍，Minecraft 都能给玩家带来无尽的乐趣和创造力的体验。”">
+</body>
+</html>
